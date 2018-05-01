@@ -24,6 +24,7 @@ class Acontroller extends Controller
     	echo $pwdpwd1;
     	echo "<br>";
     	echo $pwdpwd2;
+	echo "<br>";
     }
 
 }
